@@ -78,7 +78,11 @@ const SOCIAL_ICONS: SocialIcon = {
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} />
+      {
+        image && (
+          <img src={image} alt={name} />
+        )
+      }
     </figure>
   </div>
 </Section>

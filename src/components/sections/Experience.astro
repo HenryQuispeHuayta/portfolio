@@ -7,11 +7,20 @@ import { work } from "@cv";
   <ul>
     {
       work.map(
-        ({ name, startDate, endDate, position, summary, highlights, url }) => {
+        ({ name, startDate, endDate, position, summary, url }) => {
           const startYear = new Date(startDate).getFullYear();
+          const startMonth = new Date(startDate).toLocaleString("es-ES", {
+            month: "short",
+          }) + ".";
           const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Present";
-          const years = `${startYear} - ${endYear}`;
+            endDate != null ? new Date(endDate).getFullYear() : "Presente";
+          const endMonth =
+            endDate != null
+              ? new Date(endDate).toLocaleString("es-ES", {
+                  month: "short",
+                }) + "."
+              : "";
+          const years = `${startMonth} ${startYear} - ${endMonth} ${endYear}`;
 
           return (
             <li>

@@ -1,0 +1,217 @@
+{
+  "basics": {
+    "name": "Henry Quispe Huayta",
+    "label": "Full Stack Developer",
+    "image": "",
+    "email": "henry.quispe.huayta@gmail.com",
+    "phone": "+591 70655432",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "La Paz, Bolivia",
+      "postalCode": "0000",
+      "city": "La Paz",
+      "countryCode": "BO",
+      "region": "Bolivia"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "HenryQuHu",
+        "url": "https://twitter.com/HenryQuHu"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "henry-qh",
+        "url": "https://www.linkedin.com/in/henry-qh"
+      },
+      {
+        "network": "GitHub",
+        "username": "HenryQuispeHuayta",
+        "url": "https://github.com/HenryQuispeHuayta"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Agetic",
+      "position": "Consultor en DevOps y Automatizacion de Software",
+      "url": "https://www.agetic.gob.bo/",
+      "startDate": "2024-9-05",
+      "endDate": "2024-12-05",
+      "summary": "Trabajé en el equipo de desarrollo de una plataforma que permite crear y gestionar recursos de infraestructura.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Agetic",
+      "position": "DevOps Engineer",
+      "url": "https://www.agetic.gob.bo/",
+      "startDate": "2024-3-01",
+      "endDate": "2024-9-01",
+      "summary": "Desarrollé aplicaciones RESTful con NestJS y Flask, además de aplicar habilidades en automatización con Ansible y aprovisionamiento mediante Terraform.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Mayor de San Andrés",
+      "url": "https://www.umsa.bo/",
+      "area": "Licenciatura en Informatica",
+      "studyType": "Bachelor",
+      "startDate": "2018-12-01",
+      "endDate": "2024-12-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Escuela Industrial Pedro Domingo Murillo",
+      "url": "https://eispdm.com/",
+      "area": "Técnico Superior en Electrónica",
+      "studyType": "Bachelor",
+      "startDate": "2011-1-01",
+      "endDate": "2015-1-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "MUI",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Backend", "Fullstack"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
+    },
+    {
+      "name": "NextJS",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
+    },
+    {
+      "name": "NestJS",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Flask",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Ansible",
+      "level": "Intermediate",
+      "keywords": ["Automatización", "DevOps"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Terraform",
+      "level": "Intermediate",
+      "keywords": ["Infraestructura", "DevOps"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "https://project.com/"
+    }
+  ]
+}

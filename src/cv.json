@@ -124,7 +124,12 @@
     {
       "name": "MUI",
       "level": "Intermediate",
-      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
     },
     {
       "name": "TypeScript",
@@ -169,7 +174,12 @@
     {
       "name": "PostgreSQL",
       "level": "Intermediate",
-      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
     },
     {
       "name": "Git",
@@ -206,14 +216,34 @@
   ],
   "projects": [
     {
-      "name": "Project",
+      "name": "Interprete-Pseudocodigo",
       "isActive": true,
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/",
-      "github": "https://github.com/"
+      "description": "Interprete de codigo en español.",
+      "highlights": ["Open Source"],
+      "url": "",
+      "github": "https://github.com/HenryQuispeHuayta/interprete-pseudocodigo"
+    },
+    {
+      "name": "Inflex-frontend",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Plataforma para ejecutar codigo en español.",
+      "highlights": ["Open Source", "Desarrollo Web", "Frontend"],
+      "url": "https://inflex-frontend.pages.dev/dashboard",
+      "github": "https://github.com/HenryQuispeHuayta/inflex-frontend"
+    },
+    {
+      "name": "Inflex-backend",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Api para ejecutar codigo en español.",
+      "highlights": ["Open Source", "Desarrollo Web", "Backend"],
+      "url": "https://inflex-backend.onrender.com/docs",
+      "github": "https://github.com/HenryQuispeHuayta/inflex-backend"
     }
   ]
 }

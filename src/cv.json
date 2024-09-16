@@ -244,6 +244,16 @@
       "highlights": ["Open Source", "Desarrollo Web", "Backend"],
       "url": "https://inflex-backend.onrender.com/docs",
       "github": "https://github.com/HenryQuispeHuayta/inflex-backend"
+    },
+    {
+      "name": "Inflex-vscode",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Extensión de vscode para ejecutar codigo en español.",
+      "highlights": ["Open Source", "Desarrollo Web"],
+      "url": "https://marketplace.visualstudio.com/items?itemName=HenryQH.inflex",
+      "github": "https://github.com/HenryQuispeHuayta/inFlex-vscode"
     }
   ]
 }

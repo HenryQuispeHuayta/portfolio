@@ -157,9 +157,29 @@
       "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
+      "name": "GitLab-CI",
+      "level": "Intermediate",
+      "keywords": ["Continuous Integration", "DevOps"]
+    },
+    {
       "name": "Terraform",
       "level": "Intermediate",
       "keywords": ["Infraestructura", "DevOps"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": ["Containers", "DevOps"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
+      "keywords": ["Containers", "Orchestration", "DevOps"]
+    },
+    {
+      "name": "ArgoCD",
+      "level": "Intermediate",
+      "keywords": ["Continuous Delivery", "DevOps"]
     }
   ],
   "languages": [

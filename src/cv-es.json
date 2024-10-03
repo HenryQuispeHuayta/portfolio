@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Henry Quispe Huayta",
-    "label": "Full Stack Developer",
+    "label": "Desarrollador Web Fullstack",
     "image": "",
     "email": "henry.quispe.huayta@gmail.com",
     "phone": "+591 70655432",
     "url": "https://johndoe.com",
-    "summary": "Desarrollador web apasionado en búsqueda constante de oportunidades para aplicar y ampliar mis habilidades en el desarrollo. Con sólidos conocimientos y experiencia en la creación de soluciones web efectivas, me esfuerzo por utilizar herramientas y marcos de trabajo actualizados para ofrecer soluciones tecnológicas innovadoras y de alta calidad.",
+    "summary": "Soy un desarrollador web fullstack apasionado y en constante búsqueda de oportunidades para aplicar y expandir mis habilidades en el desarrollo. Poseo amplios conocimientos y experiencia en la creación de soluciones web efectivas, siempre enfocado en utilizar herramientas y marcos de trabajo actualizados. Me dedico a ofrecer soluciones tecnológicas innovadoras y de alta calidad, impulsando el éxito de los proyectos en los que participo.",
     "location": {
       "address": "La Paz, Bolivia",
       "postalCode": "0000",
@@ -34,21 +34,30 @@
   },
   "work": [
     {
+      "name": "Freelance",
+      "position": "Desarrollador Web",
+      "url": "https://www.linkedin.com/in/henry-qh",
+      "startDate": "2024-3-01",
+      "endDate": "2024-8-01",
+      "summary": "Desarrollé una web para mostrar las exposiciones de un museo, una web de venta de productos y una web para una fundación, que incluía secciones para toda la información de la fundación y un apartado para recibir donaciones.",
+      "highlights": ["Started the company"]
+    },
+    {
       "name": "Agetic",
       "position": "Consultor en DevOps y Automatizacion de Software",
       "url": "https://www.agetic.gob.bo/",
-      "startDate": "2024-9-05",
+      "startDate": "2024-3-05",
       "endDate": "2024-12-05",
       "summary": "Trabajé en el equipo de desarrollo de una plataforma que permite crear y gestionar recursos de infraestructura.",
       "highlights": ["Started the company"]
     },
     {
-      "name": "Agetic",
-      "position": "DevOps Engineer",
-      "url": "https://www.agetic.gob.bo/",
-      "startDate": "2024-3-01",
-      "endDate": "2024-9-01",
-      "summary": "Desarrollé aplicaciones RESTful con NestJS y Flask, además de aplicar habilidades en automatización con Ansible y aprovisionamiento mediante Terraform.",
+      "name": "La Francesa S.A,",
+      "position": "Tecnico de Mantenimiento",
+      "url": "https://www.facebook.com/LaFrancesaBolivia",
+      "startDate": "2015-2-01",
+      "endDate": "2016-6-01",
+      "summary": "Dirigí la expansión de equipos para empleados y gestioné dos secciones asignando roles y rotando tareas, lo que mejoró la productividad. También fui responsable de mantener los sistemas legacy en uso.",
       "highlights": ["Started the company"]
     }
   ],
@@ -155,6 +164,11 @@
       "name": "NestJS",
       "level": "Intermediate",
       "keywords": ["Desarrollo Web", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
     },
     {
       "name": "Python",

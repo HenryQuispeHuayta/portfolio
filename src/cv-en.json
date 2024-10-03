@@ -34,12 +34,21 @@
   },
   "work": [
     {
+      "name": "Freelance",
+      "position": "Web Developer",
+      "url": "#",
+      "startDate": "2024-3-01",
+      "endDate": "2024-8-01",
+      "summary": "I developed a website to showcase the exhibitions of a museum, an e-commerce site for selling products, and a website for a foundation that included sections for all the foundation's information and a section for receiving donations.",
+      "highlights": ["Started the company"]
+    },
+    {
       "name": "Agetic",
       "position": "DevOps and Software Automation Consultant",
       "url": "https://www.agetic.gob.bo/",
-      "startDate": "2024-3-05",
-      "endDate": "2024-12-05",
-      "summary": "I developed a platform to assist developers with project deployment, improved the process for building virtual machines and allocating new resources, and created an API to manage various Ansible playbooks.",
+      "startDate": "2023-3-05",
+      "endDate": "2023-12-05",
+      "summary": "Desarrollé una plataforma para ayudar a los desarrolladores con el despliegue de proyectos, mejoré el proceso de creación de máquinas virtuales y asignación de nuevos recursos, y creé una API para gestionar varios playbooks de Ansible.",
       "highlights": ["Started the company"]
     },
     {

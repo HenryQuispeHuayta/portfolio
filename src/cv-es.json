@@ -35,7 +35,7 @@
   "work": [
     {
       "name": "Freelance",
-      "position": "Desarrollador Web",
+      "position": "Desarrollador Web Fullstack",
       "url": "https://www.linkedin.com/in/henry-qh",
       "startDate": "2024-3-01",
       "endDate": "2024-8-01",
@@ -44,7 +44,7 @@
     },
     {
       "name": "Agetic",
-      "position": "Consultor en DevOps y Automatizacion de Software",
+      "position": "Desarrollador Web Fullstack para el equipo de DevOps",
       "url": "https://www.agetic.gob.bo/",
       "startDate": "2024-3-05",
       "endDate": "2024-12-05",
@@ -167,6 +167,11 @@
     },
     {
       "name": "Astro",
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
+    },
+    {
+      "name": "Angular",
       "level": "Intermediate",
       "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
     },

@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Henry Quispe Huayta",
-    "label": "Desarrollador Web Fullstack",
+    "label": "Ingeniero DevOps",
     "image": "/img.jpg",
     "email": "henry.quispe.huayta@gmail.com",
     "phone": "+591 70655432",
-    "url": "https://johndoe.com",
-    "summary": "Soy un desarrollador web fullstack apasionado y en constante búsqueda de oportunidades para aplicar y expandir mis habilidades en el desarrollo. Poseo amplios conocimientos y experiencia en la creación de soluciones web efectivas, siempre enfocado en utilizar herramientas y marcos de trabajo actualizados. Me dedico a ofrecer soluciones tecnológicas innovadoras y de alta calidad, impulsando el éxito de los proyectos en los que participo.",
+    "url": "https://henryqh.me",
+    "summary": "Soy un ingeniero DevOps apasionado y en constante búsqueda de oportunidades para aplicar y expandir mis habilidades en el desarrollo. Poseo amplios conocimientos y experiencia en la creación de soluciones web efectivas, siempre enfocado en utilizar herramientas y marcos de trabajo actualizados. Me dedico a ofrecer soluciones tecnológicas innovadoras y de alta calidad, impulsando el éxito de los proyectos en los que participo.",
     "location": {
       "address": "La Paz, Bolivia",
       "postalCode": "0000",
@@ -34,6 +34,15 @@
   },
   "work": [
     {
+      "name": "Maplenet",
+      "position": "Desarrollador Web Fullstack y DevOps",
+      "url": "https://www.maplenet.com.bo/",
+      "startDate": "2025-1-02",
+      "endDate": "2025-4-15",
+      "summary": "Lideré y desarrollé una plataforma para una empresa de telecomunicaciones, incluyendo un sistema de gestión de clientes, pasarelas de pago y aprovicionamiento de usuarios en una plataforma OTT. También trabajé en la creación de la infraestructura de la empresa, incluyendo servidores, balanceadores de carga y redes.",
+      "highlights": ["Started the company"]
+    },
+    {
       "name": "Freelance",
       "position": "Desarrollador Web Fullstack",
       "url": "https://www.linkedin.com/in/henry-qh",
@@ -44,11 +53,11 @@
     },
     {
       "name": "Agetic",
-      "position": "Desarrollador Web Fullstack para el equipo de DevOps",
+      "position": "Ingeniero DevOps",
       "url": "https://www.agetic.gob.bo/",
       "startDate": "2024-3-05",
       "endDate": "2024-12-05",
-      "summary": "Trabajé en el equipo de desarrollo de una plataforma que permite crear y gestionar recursos de infraestructura.",
+      "summary": "Desarrollé una plataforma para ayudar a los desarrolladores con el despliegue de proyectos, estuve a cargo de desplegar y mantener diferentes despliegues en el ambiente de develop, mejoré el proceso de creación de máquinas virtuales y asignación de nuevos recursos, y creé una API para gestionar varios playbooks de Ansible.",
       "highlights": ["Started the company"]
     },
     {
